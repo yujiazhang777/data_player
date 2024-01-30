@@ -1,0 +1,2 @@
+file_player_mulran-master-bag
+-DCATKIN_DEVEL_PREFIX=/home/yujia/catkin_mulran/devel -DCMAKE_INSTALL_PREFIX=/home/yujia/catkin_mulran/install -G Unix Makefiles
